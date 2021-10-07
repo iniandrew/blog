@@ -30,7 +30,8 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
+    ShowFullTextinRSS: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -83,7 +84,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: "N6mg8dtNXgfiOTCN8nyudlUO_FK5Lrbkcj94fAa0SsU"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
