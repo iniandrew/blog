@@ -49,9 +49,9 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /Logo.png
-        iconHeight: 35
+        text: "Andrew"
+        # icon: /Logo.png
+        # iconHeight: 35
 
     # profile-mode
     profileMode:
@@ -97,7 +97,7 @@ params:
     editPost:
         URL: "https://github.com/iniandrew.github.io/content"
         Text: "Suggest Changes" # edit text
-        appendFilePath: false # to append file path to Edit link
+        appendFilePath: true # to append file path to Edit link
 
     # for search
     # https://fusejs.io/api/options.html
