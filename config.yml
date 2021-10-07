@@ -70,8 +70,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: "Hi, I'm Andrew. \U0001F44B"
+        Content: Documentation of everything Chrisdion Andrew has learned.
 
     socialIcons:
         - name: twitter
@@ -97,7 +97,7 @@ params:
     editPost:
         URL: "https://github.com/iniandrew.github.io/content"
         Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        appendFilePath: false # to append file path to Edit link
 
     # for search
     # https://fusejs.io/api/options.html
