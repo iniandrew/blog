@@ -49,11 +49,11 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: "https://icons-for-free.com/iconfiles/png/512/alphabet-1320567788048749666.png"
+        favicon16x16: "https://icons-for-free.com/iconfiles/png/512/alphabet-1320567788048749666.png"
+        favicon32x32: "https://icons-for-free.com/iconfiles/png/512/alphabet-1320567788048749666.png"
+        apple_touch_icon: "https://icons-for-free.com/iconfiles/png/512/alphabet-1320567788048749666.png"
+        safari_pinned_tab: "https://icons-for-free.com/iconfiles/png/512/alphabet-1320567788048749666.png"
 
     label:
         text: "Andrew"
@@ -91,10 +91,10 @@ params:
     analytics:
         google:
             SiteVerificationTag: "N6mg8dtNXgfiOTCN8nyudlUO_FK5Lrbkcj94fAa0SsU"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+        # bing:
+        #     SiteVerificationTag: "XYZabc"
+        # yandex:
+        #     SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
