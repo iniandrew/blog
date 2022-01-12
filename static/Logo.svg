@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="228" height="60" viewBox="0 0 228 60">
+  <defs>
+    <filter id="Andrew" x="23.5" y="-3.5" width="191" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="228" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="228" height="60" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Andrew)">
+      <text id="Andrew-2" data-name="Andrew" transform="translate(28 47)" fill="#212121" stroke="#32e0c4" stroke-linecap="square" stroke-linejoin="round" stroke-width="1" font-size="48" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500" letter-spacing="0.015em"><tspan x="0" y="0">Andrew</tspan></text>
+    </g>
+  </g>
+</svg>

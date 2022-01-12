@@ -1,7 +1,7 @@
 ---
 title: "Teori Probabilitas - Sampel"
 date: 2021-03-16T08:30:48+07:00
-draft: true
+draft: false
 showtoc: true
 author: "Chrisdion Andrew"
 categories: ["Kuliah"]
@@ -132,25 +132,6 @@ Ibaratkan sebuah bola salju yang menggelinding, makin lama semakin besar.
 | - Sampel Representatif           | - Sampel tidak representatif           |
 | - Menggunakan konsep peluang     | - Tanpa menggunakan konsep peluang     |
 
-**Sistem Informasi Akuntansi (SIA)** adalah suatu sistem yang terdiri dari berbagai formulir, catatan dan laporan yang telah disusun dan menghasilkan suatu informasi keuangan yang dibutuhkan oleh perusahaan.
-
-Sistem Informasi Akutansi (SIA) sangat diperlukan oleh sebuah perusahaan yang bergerak di bidang apapun karena mengandung sebuah proses untuk melaporkan kondisi keuangan perusahaan secara akurat dan benar untuk semua pihak yang membutuhkan.
-
-Sistem Informasi Akuntansi (SIA) melibatkan pengumpulan, penyimpanan, dan pemrosesan data keuangan dan akuntansi yang digunakan oleh pengguna internal untuk melaporkan informasi kepada investor, kreditor, dan otoritas pajak.
-
-Sistem Informasi Akuntansi (SIA) dapat dilakukan dengan 2 macam cara, yaitu secara manual atau melalui sistem terkomputerisasi.
-
-# Fungsi Sistem Informasi Akuntansi
-
-Fungsi Sistem Informasi Akuntansi adalah:
-
-- Mengumpulkan semua data kegiatan bisnis perusahaan dan menyimpan data tersebut secara efektif dan efisien.
-- Mengambil data yang diperlukan dari berbagai sumber dokumen yang berkaitan dengan aktivitas bisnis.
-- Membuat dan mencatat data transaksi dengan benar ke dalam jurnal-jurnal yang diperlukan dalam proses akuntansi sesuai dengan urutan dan tanggal terjadinya transaksi.
-- Mengubah sekumpulan data menjadi informasi keuangan yang dibutuhkan perusahaan.
-- Sebagai suatu sistem pengendali keuangan, agar tidak terjadi suatu kecurangan.
-
-# Permasalahan Sistem Informasi Akuntansi Dalam Perusahaan (Studi Kasus PT BATURAJA MULTI USAHA)
 
 ---
 Referensi: https://www.statistikian.com/2012/10/pengertian-populasi-dan-sampel.html
