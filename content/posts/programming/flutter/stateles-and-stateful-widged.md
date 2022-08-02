@@ -1,11 +1,11 @@
 ---
-title: "Stateles & Stateful Widged"
+title: "Stateles & Stateful Widget"
 date: 2022-08-02T13:50:18+07:00
 draft: false
 showtoc: true
 author: "Chrisdion Andrew"
-categories: ["Programming", "Widged", "Flutter"]
-tags: ["Programming", "Flutter"]
+categories: ["Programming", "Flutter"]
+tags: ["Programming", "Flutter", "Widget"]
 description: ""
 ---
 
