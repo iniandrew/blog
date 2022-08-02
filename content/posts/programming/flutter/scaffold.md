@@ -5,7 +5,7 @@ draft: false
 showtoc: true
 author: "Chrisdion Andrew"
 categories: ["Programming", "Flutter"]
-tags: ["Programming", "Widget", "Flutter", "Scaffold"]
+tags: ["Programming", "Widget", "Flutter", "Scaffold", "AppBar", "FloatingActionButton", "Body"]
 description: ""
 ---
 
