@@ -15,6 +15,6 @@ Dalam synchronous program, kode program dijalankan secara berurutan dari atas ke
 
 Dalam asynchronous program, jika kita menuliskan dua baris kode, kita dapat membuat baris kode kedua dieksekusi tanpa harus menunggu kode pada baris pertama selesai dieksekusi. Dalam dunia nyata bisa kita bayangkan dengan memesan kopi melalui pelayan, di mana sembari menunggu pesanan kita datang, kita dapat melakukan aktivitas lain seperti membuka laptop atau menulis.
 
-![Synchronous vs Asynchronous](./img/synchronous-vs-asynchronous.png#center)
+![Synchronous vs Asynchronous](../img/synchronous-vs-asynchronous.png#center)
 
 Program asynchronous memungkinkan suatu operasi bisa berjalan sembari menunggu operasi lainnya selesai. Umumnya kita memanfaatkan asynchronous pada operasi yang besar dan membutuhkan waktu lama, seperti mengambil data dari internet atau API, menyimpan data ke database, dan membaca data dari sebuah berkas.
